@@ -27,13 +27,16 @@
     2. Bei Turnieren mit zusammengefassten Altersklassen (z.B. U12w-U18w) werden sämtliche Qualifikationsplätze addiert und unter allen Spielern ausgespielt. Die Qualifikationsplätze werden dann in der Reihe der Platzierungen vergeben; dabei erhält der Qualifizierte zuerst den Freiplatz in der jüngstmöglichen Altersklasse, in der er spielberichtigt ist. Im Falle von zwei oder mehr Qualifizierten erhält der besser platzierte den Qualifikationsplatz der eigenen Altersklasse.
     3. Für den Fall, das Qualifikationsplätze von den Erstplatzierten nicht wahrgenommen werden, Qualifizierte nachträglich einen persönlichen Freiplatz erhalten oder der Bezirk nachträglich zusätzliche Plätze erhält, nominiert der Jugendvorstand unter Berücksichtigung der Ergebnisse der BJEM Nachrücker für die VJEM.
 4. Die Größe der Teilnehmerfelder und der Modus richten sich nach der Anzahl der vergebenen Plätze:
+    |Teilnehmer|System|
+   |---|---|
     | Bis 6 Teilnehmer | Rundenturnier |
     | 7/8 Teilnehmer   | CH-System 5 Runden |
     | über 8 Teilnehmer | CH-System 6 Runden |
+   
     Turniere nach Schweizer-System werden nach den Paarungesgrundsätzen der FIDE ausgelost. Vollrundige Turniere werden nach der jeweils zugehörigen Paarungstabelle gespielt, wobei die Startnummbern ausgelost werden.
-5. Die Turniere werden mit folgender Bedenkzeit pro Spieler und Partie ausgetragen:
+6. Die Turniere werden mit folgender Bedenkzeit pro Spieler und Partie ausgetragen:
     Es stehen jedem Spieler 90 Minuten für die ersten 40 Züge (1. Zeitkontrolle) je Partie zur Verfügung. Anschließend müssen alle restlichen Züge in zusätzlichen 30 Minuten je Spieler (2. Zeitkontrolle) gespielt werden. In beiden Phasen erhält jeder Spieler vom ersten zug an 30 Sekunden Zeitzuschlag pro Zug.
-6. Der Jugendvorstand kann abweichend von 2.4. und 2.5. die Turniere bzgl. Turniermodus, Teilnehmerzahlen und Bedenkzeit ausschreiben, wenn es die Gegebenheiten erfordern.
+7. Der Jugendvorstand kann abweichend von 2.4. und 2.5. die Turniere bzgl. Turniermodus, Teilnehmerzahlen und Bedenkzeit ausschreiben, wenn es die Gegebenheiten erfordern.
 
 ## 3. Mannschaftsmeisterschaften
 1. U12 Jugendmannschaftsmeisterschaft
@@ -45,9 +48,11 @@
 
 ## 4. Allgemeine Regelungen
 1. Sofia-Regelung: Gemäß FIDE-Regeln 9.1a ist es Spielern nicht gestattet, vor Vollendung des 20. Zuges Remis zu vereinbaren.
-2. Bei jedem Mannschaftskampf muss für alle Bretter jeweils ein Spieler entsprechend der gemeldeten Rangfolge nominiert werden. Dies ist nicht der Fall, wenn das Brett freigelassen wird. In diesem Fall trägt der Mannschaftsführer keinen Namen auf den Spielbericht ein. Es darf kein Spieler an einem Brett hinter einem freigelassenen Brett nominiert werden.
-3. Es dürfen nur Spieler nominiert werden, die anwesend sind.6.2.3 Sind (noch) nicht alle Spieler einer Mannschaft da, kann diese mit der Nominierung warten. Die Zeit die gewartet wird, wird dann jedem Spieler der unvollständigen Mannschaft von der Bedenkzeit abgezogen. Spätestens beim Ablauf der Karenzzeit, muss die Mannschaft ihre Nominierung abgeben.
-4. Verstöße gegen 6.2.2 können nur vom betroffenen gegnerischen Mannschaftsführer vor Partiefreigabe reklamiert werden. Danach bleibt auch eine Nominierung abweichend von 6.2.2 gültig.
+2. Nominierung
+    1. Bei jedem Mannschaftskampf muss für alle Bretter jeweils ein Spieler entsprechend der gemeldeten Rangfolge nominiert werden. Dies ist nicht der Fall, wenn das Brett freigelassen wird. In diesem Fall trägt der Mannschaftsführer keinen Namen auf den Spielbericht ein. Es darf kein Spieler an einem Brett hinter einem freigelassenen Brett nominiert werden.
+    2. Es dürfen nur Spieler nominiert werden, die anwesend sind.
+    3. Sind (noch) nicht alle Spieler einer Mannschaft da, kann diese mit der Nominierung warten. Die Zeit die gewartet wird, wird dann jedem Spieler der unvollständigen Mannschaft von der Bedenkzeit abgezogen. Spätestens beim Ablauf der Karenzzeit, muss die Mannschaft ihre Nominierung abgeben.
+    4. Verstöße gegen 4.2.2. können nur vom betroffenen gegnerischen Mannschaftsführer vor Partiefreigabe reklamiert werden. Danach bleibt auch eine Nominierung abweichend von 4.2.2. gültig.
 
 ## 5. Platzierung bei Punktgleichheit [erwV]
 1. Einzelturniere
@@ -76,24 +81,27 @@
         Bei Turnieren, die nach dem Schweizer System ausgetragen werden, entscheiden über die Platzierung die folgenden Kriterien in angegebener Reihenfolge: 
         1. Mannschaftspunkte
         2. Sonneborn-Berger-Wertung (mit einem Streichergebnis)
-        3. Brettpunkte4. Direkter Vergleich (sofern vollständig vorhanden)
+        3. Brettpunkte
+        4. Direkter Vergleich (sofern vollständig vorhanden)
        
-        Führt dies zu keiner Entscheidung, wird bei Aufstiegsplätzen, Abstiegsplätzen, Qualifikationsplätzen und Titelentscheidungen ein Stichkampf angesetzt. Ansonsten entscheiden über die Platzierung die folgenden Kriterien in angegebener Reihenfolge:
+            Führt dies zu keiner Entscheidung, wird bei Aufstiegsplätzen, Abstiegsplätzen, Qualifikationsplätzen und Titelentscheidungen ein Stichkampf angesetzt. Ansonsten entscheiden über die Platzierung die folgenden Kriterien in angegebener Reihenfolge:
+       
         5. Berliner Wertung aus dem direkten Vergleich (sofern vollständig vorhanden)
         6. Berliner Wertung aus allen Kämpfen
         7. Los
-    2. Turniere im Rundensystem
+    3. Turniere im Rundensystem
         Bei Turnieren, die im Rundensystem ausgetragen werden, entscheiden über die Platzierung die folgenden Kriterien in angegebener Reihenfolge:
         1. Mannschaftspunkte
         2. Brettpunkte
         3. Direkter Vergleich
 
-        Führt dies zu keiner Entscheidung, wird bei Aufstiegsplätzen, Abstiegsplätzen, Qualifikationsplätzen und Titelentscheidungen ein Stichkampf angesetzt. Ansonsten entscheiden über die Platzierung die folgenden Kriterien in angegebener Reihenfolge:
+            Führt dies zu keiner Entscheidung, wird bei Aufstiegsplätzen, Abstiegsplätzen, Qualifikationsplätzen und Titelentscheidungen ein Stichkampf angesetzt. Ansonsten entscheiden über die Platzierung die folgenden Kriterien in angegebener Reihenfolge:
+       
         4. Berliner Wertung aus dem direkten Vergleich
         5. Berliner Wertung aus allen Kämpfen
         6. Los
 
-    3. Wenn bei Gleichstand in den Mannschaftspunkten in der Brettpunktwertung einer der betroffenen Mannschaften Punkte aus einem kampflosen Mannschaftssieg enthalten sind, werden sowohl diese Brettpunkte als auch die Brettpunkte der übrigen punktgleichen Mannschaften gegen diesen Gegner aus der Wertung gestrichen.
+    5. Wenn bei Gleichstand in den Mannschaftspunkten in der Brettpunktwertung einer der betroffenen Mannschaften Punkte aus einem kampflosen Mannschaftssieg enthalten sind, werden sowohl diese Brettpunkte als auch die Brettpunkte der übrigen punktgleichen Mannschaften gegen diesen Gegner aus der Wertung gestrichen.
 
 ## 6. Spielberechtigung
 1. Für die Teilnahme an Turnieren unter 1.1 ist eine Jugend-Spielberechtigung nach den Bestimmungen der SJNRW für einen Verein innerhalb des Schachbezirks Steinfurt notwendig.
@@ -104,7 +112,7 @@
 1. Einsprüche und Proteste gemäß BTO des SBNRW sind an den zuständigen Spielleiter zu richten. Gegen Entscheidungen der Spielleiter sind Proteste möglich, die an den Verbandsspielausschuss des SV Münsterland zu richten sind.
 
 ## 8. Schlussbestimmungen
-1. In allen spieltechnischen Angelegenheiten, die in dieser Spielordnung nicht geregelt sind, ist nach der JSpO der SJML zu verfahren. Notwendige Anpassungen, die sich durch Änderungen der BTO und der JSpO der SJML ergeben, sind in der nächsten Jugendver-sammlung zur Beschlussfassung vorzulegen.
+1. In allen spieltechnischen Angelegenheiten, die in dieser Spielordnung nicht geregelt sind, ist nach der JSpO der SJML zu verfahren. Notwendige Anpassungen, die sich durch Änderungen der BTO und der JSpO der SJSt ergeben, sind in der nächsten Jugendversammlung zur Beschlussfassung vorzulegen.
 2. Die mit [erwV] = „erweiterter Vorstand“ gekennzeichneten Bestimmungen können nicht nur von der Jugendversammlung, sondern auch vom erweiterten Vorstand geändert werden. Die Änderungen sind er mit Bekanntgabe an die Vereine wirksam.
 
-Diese Jugendspielordnung wurde laut Beschluss der Jugendversammlung der SJML 00.00.0000 zuletzt geändert. Mit Inkrafttreten dieser Jugendspielordnung sind alle bisherigen Jugendspielordnungen der SJSt aufgehoben.
+Diese Jugendspielordnung wurde laut Beschluss der Jugendversammlung der SJSt 00.00.0000 zuletzt geändert. Mit Inkrafttreten dieser Jugendspielordnung sind alle bisherigen Jugendspielordnungen der SJSt aufgehoben.
