@@ -27,8 +27,9 @@
     2. Bei Turnieren mit zusammengefassten Altersklassen (z.B. U12w-U18w) werden sämtliche Qualifikationsplätze addiert und unter allen Spielern ausgespielt. Die Qualifikationsplätze werden dann in der Reihe der Platzierungen vergeben; dabei erhält der Qualifizierte zuerst den Freiplatz in der jüngstmöglichen Altersklasse, in der er spielberichtigt ist. Im Falle von zwei oder mehr Qualifizierten erhält der besser platzierte den Qualifikationsplatz der eigenen Altersklasse.
     3. Für den Fall, das Qualifikationsplätze von den Erstplatzierten nicht wahrgenommen werden, Qualifizierte nachträglich einen persönlichen Freiplatz erhalten oder der Bezirk nachträglich zusätzliche Plätze erhält, nominiert der Jugendvorstand unter Berücksichtigung der Ergebnisse der BJEM Nachrücker für die VJEM.
 4. Die Größe der Teilnehmerfelder und der Modus richten sich nach der Anzahl der vergebenen Plätze:
+   
     |Teilnehmer|System|
-   |---|---|
+    |---|---|
     | Bis 6 Teilnehmer | Rundenturnier |
     | 7/8 Teilnehmer   | CH-System 5 Runden |
     | über 8 Teilnehmer | CH-System 6 Runden |
@@ -109,7 +110,7 @@
     Für die Teilnahme an Turnieren unter 1.1.1 (BJEM) gilt die Ausländerregelung der SJNRW. Ausgenommen hiervon ist die offene BJEM. Für die Teilnahme an allen anderen Wettbewerben der SJSt gibt es keine Beschränkungen durch eine Ausländerregelung.
 
 ## 7. Einsprüche und Proteste
-1. Einsprüche und Proteste gemäß BTO des SBNRW sind an den zuständigen Spielleiter zu richten. Gegen Entscheidungen der Spielleiter sind Proteste möglich, die an den Verbandsspielausschuss des SV Münsterland zu richten sind.
+1. Einsprüche und Proteste gemäß BTO des SBNRW sind an den zuständigen Spielleiter zu richten. Gegen Entscheidungen der Spielleiter sind Proteste möglich, die an den Vorstand des Bezirks Steinfurt zu richten sind.
 
 ## 8. Schlussbestimmungen
 1. In allen spieltechnischen Angelegenheiten, die in dieser Spielordnung nicht geregelt sind, ist nach der JSpO der SJML zu verfahren. Notwendige Anpassungen, die sich durch Änderungen der BTO und der JSpO der SJSt ergeben, sind in der nächsten Jugendversammlung zur Beschlussfassung vorzulegen.
