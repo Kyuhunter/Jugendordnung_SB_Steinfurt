@@ -1,7 +1,6 @@
 ## Jugendordnung (JO) des Schachbezirk Steinfurt
 
-**Stand:**
-13.10.2024
+**Stand: 01.11.2024**
 
 Inhalt
 1. Name und Mitgliedschaft
