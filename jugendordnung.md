@@ -14,20 +14,20 @@ Inhalt
 8. Ausschüsse
 9. Geschäftsjahr, Gerichtsstand und Sitz
 
-## Name und Mitgliedschaft
+## 1. Name und Mitgliedschaft
 
 1. Die Schachjugend Steinfurt (SJSt) ist die Jugendorganisation des Schachbezirks Steinfurt (SBSt). Mitglieder der SJSt sind alle Jugendlichen der Mitgliedsorganisationen des SBSt sowie alle in diesen Organisationen gewählten Mitarbeiter.
 
-## Aufgaben und Ziele
+## 2. Aufgaben und Ziele
 
 1. Die SJSt führt und verwaltet sich selbstständig und entscheidet über die Verwendung der ihr zufließenden Mittel. Die Schachjugend bekennt sich zu den Zielen und Grundsätzen des SBSt, der Schachjugend Münsterland (SJML) und der Schachjugend Nordrhein-Westfalen (SJNRW).
 
-## Finanzierung
+## 3. Finanzierung
 
 1. Der SJSt stehen zur Finanzierung ihrer Aufgaben alle Beiträge zu, die von den Mitgliedsorganisationen des SBSt für die Jugendlichen und Schüler entrichtet werden.
 2. Bis die SJSt eine andere Entscheidung trifft, werden ihre Finanzen von dem SBSt verwaltet.
 
-## Organe
+## 4. Organe
 
 1. Die Organe der SJSt sind:
     1. die Jugendversammlung (JV)
@@ -35,7 +35,7 @@ Inhalt
     3. der erweiterte Jugendvorstand (erwV)
     4. nach Bedarf eingerichtete Ausschüsse
 
-## Jugendversammlung (JV)
+## 5. Jugendversammlung (JV)
 
 1. Die JV ist das oberste Organ der SJSt. Sie setzt sich zusammen aus den Mitgliedern des Jugendvorstandes und den Delegierten der Vereine. Mit Ausnahme von einem Delegierten müssen alle Delegierte eines Vereins Jugendliche (im Sinne der Jugendspielordnung der SJNRW) sein.
 2. Die Aufgaben der JV sind:
@@ -56,16 +56,16 @@ Inhalt
 7. Für die Zulassung von Dringlichkeitsanträgen oder das Ändern der Jugendordnung ist eine 2/3-Mehrheit der abgegebenen Stimmen erforderlich.
 8. Stimmberechtigt sind die Delegierten der Vereine und die Mitglieder des Jugendvorstandes. Jedes Mitglied des Jugendvorstandes hat eine Stimme. Jeder Verein hat eine Stimme für die Anwesenheit eines Delegierten plus eine weitere für die Anwesenheit eines jugendlichen Delegierten (im Sinne der Spielordnung der SJNRW). Diese beiden Delegierten müssen verschiedene Personen sein. Darüber hinaus hat jeder Verein für volle 5 jugendliche Mitglieder (im Sinne der Jugendspielordnung der SJNRW) jeweils eine Stimme. Die Stimmen eines Vereins werden möglichst gleichmäßig auf seine Delegierten verteilt. Ein Delegierter darf maximal 5 Stimmen eines Vereins vertreten.
 
-## Geschäftsführender Jugendvorstand
+## 6. Geschäftsführender Jugendvorstand
 
 1. Der geschäftsführende Jugendvorstand besteht aus:
     1. dem 1. Jugendwart
     2. dem 2. Jugendwart
     3. dem Bezirksjugendsprecher
 
-Der 1. Vorsitzende, die Bezirksjugendwarte und die Bezirksjugendsprecher können sich auf Sitzungen des geschäftsführenden Jugendvorstandes vertreten lassen.
+    Der 1. Vorsitzende, die Bezirksjugendwarte und die Bezirksjugendsprecher können sich auf Sitzungen des geschäftsführenden Jugendvorstandes vertreten lassen.
 
-1. Der geschäftsführende Jugendvorstand regelt alle Angelegenheiten der SJSt, soweit sie nicht einem anderen Organ zugewiesen sind. Insbesondere sind die Aufgaben des Jugendvorstands:
+2. Der geschäftsführende Jugendvorstand regelt alle Angelegenheiten der SJSt, soweit sie nicht einem anderen Organ zugewiesen sind. Insbesondere sind die Aufgaben des Jugendvorstands:
     1. Repräsentation nach Außen
     2. Koordinierung der Aufgaben im Jugendbereich
     3. Entscheidung über Anschaffungen
@@ -78,15 +78,14 @@ Der 1. Vorsitzende, die Bezirksjugendwarte und die Bezirksjugendsprecher können
 4. Die Sitzungen des geschäftsführenden Jugendvorstandes finden nach Bedarf, aber wenigstens zweimal pro Spieljahr statt. Sie sind vierzehn Tage vor dem Termin einzuberufen. Sind alle Mitglieder einverstanden, kann eine Sitzung auch kurzfristiger einberufen werden. Auf Antrag von zwei Mitgliedern des Jugendvorstandes ist eine Sitzung innerhalb von vier Wochen einzuberufen. Jede ordnungsgemäß einberufene Sitzung ist bei Erscheinen der Hälfte der satzungsgemäßen Mitglieder beschlussfähig.
 5. Bei Abstimmungen im geschäftsführenden Jugendvorstand hat jedes Mitglied eine Stimme. Beschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst. Bei Gleichstand entscheidet der 1. Jugendwart.
 
-## Erweiterter Jugendvorstand (erwV)
+## 7. Erweiterter Jugendvorstand (erwV)
 
 1. Der erweiterte Jugendvorstand besteht aus:
-    1. dem 1. Jugendwart
-    2. dem 2. Jugendwart
-    3. dem 1. Vorsitzenden des SBSt
-    4. den Referenten
-    5. den Vereinsjugendwarten
-    6. den Vereinsjugendsprechern
+    1. dem geschäftsführendem Vorstand
+    2. dem 1. Vorsitzenden des SBSt
+    3. den Referenten
+    4. den Vereinsjugendwarten
+    5. den Vereinsjugendsprechern
 
 Der 1. Vorsitzende, die Bezirksjugendwarte und die Bezirksjugendsprecher können sich auf Sitzungen des Jugendvorstandes vertreten lassen.
 
@@ -101,16 +100,16 @@ Der 1. Vorsitzende, die Bezirksjugendwarte und die Bezirksjugendsprecher können
 5. Der erweiterte Jugendvorstand kann Ausschüsse einrichten und mit Aufgaben betrauen. Er kann ihnen auch wieder Aufgaben entziehen oder sie auflösen.
 6. Die Referenten werden von der Jugendversammlung mit einem Aufgabenbereich betraut. Ihre Anzahl und Aufgaben werden dynamisch von der Jugendversammlung je nach Situation von Jahr zu Jahr neu festgelegt.
 
-## Ausschüsse
+## 8. Ausschüsse
 
 1. Der erweiterte Jugendvorstand kann Ausschüsse bilden. Er legt die Mitglieder, Aufgaben und einen Ausschussleiter fest.
 2. Beschlüsse der Ausschüsse müssen dem erweiterten Jugendvorstand vorgelegt werden. Dieser kann bei Einwänden, Beschlüsse mit einfacher Mehrheit ablehnen. Gibt es innerhalb von 14 Tagen keine Einwände gilt der Beschluss.
 3. Ausschusssitzungen finden nach Bedarf statt. Sie sind vierzehn Tage vor dem Termin einzuberufen. Sind alle Mitglieder einverstanden, kann eine Sitzung auch kurzfristiger einberufen werden. Jede ordnungsgemäß einberufene Sitzung ist beschlussfähig.
 4. Bei Abstimmungen im Ausschuss hat jedes Mitglied eine Stimme. Beschlüsse werden mit einfacher Mehrheit der abgegebenen Stimmen gefasst. Bei Gleichstand entscheidet der Ausschussleiter.
 
-## Geschäftsjahr, Gerichtsstand und Sitz
+## 9. Geschäftsjahr, Gerichtsstand und Sitz
 
-1. Das Geschäftsjahr beginnt am 1. September. Gerichtsstand und Sitz entsprechen denen des SBSt.
+1. Das Geschäftsjahr ist das Kalenderjahr.
 2. In allen Angelegenheiten, die in dieser Jugendordnung nicht im Einzelnen geregelt sind, ist nach der Satzung und den Regelungen des SBSt, der JSpO und der JGO zu verfahren.
 
-Diese Jugendordnung wurde laut Beschluss der Jugendversammlung der SJST am 31.10.2020 zuletzt geändert. Mit Inkrafttreten dieser Jugendordnung sind alle bisherigen Jugendordnungsbestimmungen der SJSt aufgehoben.
+Diese Jugendordnung wurde laut Beschluss der Jugendversammlung der SJST am 01.11.2024 zuletzt geändert. Mit Inkrafttreten dieser Jugendordnung sind alle bisherigen Jugendordnungsbestimmungen der SJSt aufgehoben.

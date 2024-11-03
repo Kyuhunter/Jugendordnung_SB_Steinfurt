@@ -9,9 +9,8 @@
 4. Allgemeine Regelungen
 5. Platzierung bei Punktgleichheit
 6. Spielberechtigung
-7. Bußen
-8. Einsprüche und Proteste
-9. Schlussbestimmungen
+7. Einsprüche und Proteste
+8. Schlussbestimmungen
 
 ## 1. Spielbetrieb
 1. Die SJ Steinfurt trägt folgende Meisterschaften je Spieljahr aus:
@@ -34,9 +33,9 @@
     | 7/8 Teilnehmer   | CH-System 5 Runden |
     | über 8 Teilnehmer | CH-System 6 Runden |
    
-    Turniere nach Schweizer-System werden nach den Paarungesgrundsätzen der FIDE ausgelost. Vollrundige Turniere werden nach der jeweils zugehörigen Paarungstabelle gespielt, wobei die Startnummbern ausgelost werden.
+    Turniere nach Schweizer-System werden nach den Paarungesgrundsätzen der FIDE ausgelost. Vollrundige Turniere werden nach der jeweils zugehörigen Paarungstabelle gespielt, wobei die Startnummern ausgelost werden.
 6. Die Turniere werden mit folgender Bedenkzeit pro Spieler und Partie ausgetragen:
-    Es stehen jedem Spieler 90 Minuten für die ersten 40 Züge (1. Zeitkontrolle) je Partie zur Verfügung. Anschließend müssen alle restlichen Züge in zusätzlichen 30 Minuten je Spieler (2. Zeitkontrolle) gespielt werden. In beiden Phasen erhält jeder Spieler vom ersten zug an 30 Sekunden Zeitzuschlag pro Zug.
+    Es stehen jedem Spieler 90 Minuten für die ersten 40 Züge (1. Zeitkontrolle) je Partie zur Verfügung. Anschließend müssen alle restlichen Züge in zusätzlichen 30 Minuten je Spieler (2. Zeitkontrolle) gespielt werden. In beiden Phasen erhält jeder Spieler vom ersten Zug an 30 Sekunden Zeitzuschlag pro Zug.
 7. Der Jugendvorstand kann abweichend von 2.4. und 2.5. die Turniere bzgl. Turniermodus, Teilnehmerzahlen und Bedenkzeit ausschreiben, wenn es die Gegebenheiten erfordern.
 
 ## 3. Mannschaftsmeisterschaften
@@ -44,28 +43,29 @@
     1. Die Meisterschaft wird nach folgendem Modus ausgetragen:
         Offene Teilnahme mit Schweizer System beziehungsweise Rundenturnier je nach Teilnehmerzahl.
     2. Es wird mit 4 Spielern pro Mannschaft gespielt. Die Mannschaft mit Heimrecht führt am 1. und 4. Brett die schwarzen Figuren, am 2. und 3. Brett die weißen Figuren.
-    3. Die Bedenkzeit beträgt
+    3. Die Bedenkzeit beträgt 30 min + 30 sek pro Spieler und Spiel.
     4. Neben reinen Vereinsmannschaften sind Spielgemeinschaften mit Spielern aus 2 Vereinen spielberechtigt.
 
 ## 4. Allgemeine Regelungen
 1. Sofia-Regelung: Gemäß FIDE-Regeln 9.1a ist es Spielern nicht gestattet, vor Vollendung des 20. Zuges Remis zu vereinbaren.
 2. Nominierung
-    1. Bei jedem Mannschaftskampf muss für alle Bretter jeweils ein Spieler entsprechend der gemeldeten Rangfolge nominiert werden. Dies ist nicht der Fall, wenn das Brett freigelassen wird. In diesem Fall trägt der Mannschaftsführer keinen Namen auf den Spielbericht ein. Es darf kein Spieler an einem Brett hinter einem freigelassenen Brett nominiert werden.
-    2. Es dürfen nur Spieler nominiert werden, die anwesend sind.
+    1. Bei jedem Mannschaftskampf muss für alle Bretter jeweils ein Spieler entsprechend der gemeldeten Rangfolge nominiert werden. Dies ist nicht der Fall, wenn die letzten Bretter freigelassen werden. In diesem Fall trägt der Mannschaftsführer keinen Namen auf dem Spielbericht ein. Es darf kein Spieler an einem Brett hinter einem freigelassenen Brett nominiert werden.
+    2. Es dürfen nur Spieler nominiert werden, die anwesend sind.
     3. Sind (noch) nicht alle Spieler einer Mannschaft da, kann diese mit der Nominierung warten. Die Zeit die gewartet wird, wird dann jedem Spieler der unvollständigen Mannschaft von der Bedenkzeit abgezogen. Spätestens beim Ablauf der Karenzzeit, muss die Mannschaft ihre Nominierung abgeben.
     4. Verstöße gegen 4.2.2. können nur vom betroffenen gegnerischen Mannschaftsführer vor Partiefreigabe reklamiert werden. Danach bleibt auch eine Nominierung abweichend von 4.2.2. gültig.
 
 ## 5. Platzierung bei Punktgleichheit [erwV]
 1. Einzelturniere
     1. Schweizer-System-Turniere
-        Bei Turnieren die nach dem Schweizer System ausgetragen werden, entscheien über die Platzierung die folgenden Kriterien in angegebener Reihenfolge:
+        Bei Turnieren die nach dem Schweizer System ausgetragen werden, entscheiden über die Platzierung die folgenden Kriterien in angegebener Reihenfolge:
         1. Erzielte Punktzahl
         2. Buchholzwertung mit einem Streichergebnis
         3. Direkter Vergleich (sofern vollständig vorhanden)
         4. Anzahl der Gewinnpartien
         5. Los
 
-        Abweichend hiervon wird bei Titelenscheidungen und Qualifikationsplätzen anstelle des Losentscheids gestochen.
+            Abweichend hiervon wird bei Titelenscheidungen und Qualifikationsplätzen anstelle des Losentscheids gestochen.
+
     2. Rundenturniere
         Bei Turnieren, die im Rundensystem ausgetragen werden, entscheidet über die Platzierung die folgenden Kriterien in angegebener Reihenfolge:
         1. Erzielte Punktzahl
@@ -114,6 +114,6 @@
 
 ## 8. Schlussbestimmungen
 1. In allen spieltechnischen Angelegenheiten, die in dieser Spielordnung nicht geregelt sind, ist nach der JSpO der SJML zu verfahren. Notwendige Anpassungen, die sich durch Änderungen der BTO und der JSpO der SJSt ergeben, sind in der nächsten Jugendversammlung zur Beschlussfassung vorzulegen.
-2. Die mit [erwV] = „erweiterter Vorstand“ gekennzeichneten Bestimmungen können nicht nur von der Jugendversammlung, sondern auch vom erweiterten Vorstand geändert werden. Die Änderungen sind er mit Bekanntgabe an die Vereine wirksam.
+2. Die mit [erwV] = „erweiterter Vorstand“ gekennzeichneten Bestimmungen können nicht nur von der Jugendversammlung, sondern auch vom erweiterten Vorstand geändert werden. Die Änderungen sind mit Bekanntgabe an die Vereine wirksam.
 
-Diese Jugendspielordnung wurde laut Beschluss der Jugendversammlung der SJSt 00.00.0000 zuletzt geändert. Mit Inkrafttreten dieser Jugendspielordnung sind alle bisherigen Jugendspielordnungen der SJSt aufgehoben.
+Diese Jugendspielordnung wurde laut Beschluss der Jugendversammlung der SJSt 01.11.2024 zuletzt geändert. Mit Inkrafttreten dieser Jugendspielordnung sind alle bisherigen Jugendspielordnungen der SJSt aufgehoben.
